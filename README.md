@@ -17,7 +17,6 @@ The project follows a YouTube tutorial, but all data cleaning, modeling, DAX cal
 * **Tooltip Page** – Custom tooltip page used for line-chart drilldowns.
 
 ### Screenshots
-*> **Note:** The images below are placeholders. Please ensure you upload your screenshots to an `images` folder in your repository and match the filenames.*
 
 ![Summary Dashboard](images/page1.png)
 ![Detailed View](images/page2.png)
