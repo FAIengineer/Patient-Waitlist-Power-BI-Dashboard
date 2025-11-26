@@ -18,8 +18,8 @@ The project follows a YouTube tutorial, but all data cleaning, modeling, DAX cal
 
 ### Screenshots
 
-![Summary Dashboard](images/page1.png)
-![Detailed View](images/page2.png)
+![Summary Dashboard](images/summary.png)
+![Detailed View](images/detailedview.png)
 ![Tooltip Page](images/tooltip.png)
 
 ---
